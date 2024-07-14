@@ -1,2 +1,2 @@
-# mc-up-to-date-app
-up-to-date
+- up-to-date app
+app
